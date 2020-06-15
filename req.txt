@@ -1,0 +1,27 @@
+Install the following using pip install in cmd  :
+import datetime
+import pickle
+import os.path
+import os
+import time
+import playsound
+import speech_recognition as sr
+from gtts import gTTS
+import pyttsx3  # 2.6 version  for no errors
+import pytz
+import comtypes.gen
+import pyttsx3
+import webbrowser
+import smtplib
+import random
+import speech_recognition as sr
+import wikipedia
+import datetime
+import wolframalpha
+import os
+import sys
+import subprocess
+import cv2
+If any error arise do not hestitate to contact me at kar.ahmed@nu.edu.eg or kerokari777@gmail.com.
+
+also We used pytssx3 documentation for sound speed, google calender api, and open weather api. install credentials in the same file of the project
